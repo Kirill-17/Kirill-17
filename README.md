@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
+  <samp>My name is Kirill, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
   </samp>
   <br> <br>
 </p>
@@ -17,7 +17,7 @@
   <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a>
   </samp>
   <br> <br>
-  <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank">d4rsen.vercel.app</a>
+  <samp>Also check out my website: <a href="https://sportik.herokuapp.com" target="_blank">sportik.herokuapp.com</a>
   </samp>
   <br> <br>
 </p>
@@ -84,20 +84,20 @@
 
   <h2> 📈 GitHub Activity Graph: </h2>
 
-  ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
+  ![Kirill-17's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kirill-17&hide_border=true&theme=redical)
 
   <br><br>
 
-  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical)
+  ![Kirill-17's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill-17&theme=radical)
 
   <br><br>
 
-  ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)
+  ![Kirill-17's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirill-17&theme=radical)
 
   <br><br>
 
-  ![d4rsen's github
-  stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
+  ![Kirill-17's github
+  stats](https://github-readme-stats.vercel.app/api?username=Kirill-17&show_icons=true&theme=radical&include_all_commits=true)
 
   <br><br>
 
