@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/giphy.gif" alt="header"/>
+  <img src="./assests/loadingSkills.gif" alt="header"/>
 </div>
 
 
@@ -28,9 +28,9 @@
 <br><br>
 
 <p align="center" align='right'>
-  <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
+  <a target="_blank" href="mailto:spartan3c1994@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/d4rse"><img
+  <a target="_blank" href="https://t.me/Kirill_AC"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -102,7 +102,7 @@
   <br><br>
 
   <div align="center">
-    <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/rinnegan.gif" alt="header"/>
+    <img src="./assests/thanks4watching.gif" alt="header"/>
   </div>
 
   <br> <br>
